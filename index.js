@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const SVGGenerator = require;
+const SVGGenerator = require("./lib/svgGenerator");
 
 inquirer
   .prompt([
