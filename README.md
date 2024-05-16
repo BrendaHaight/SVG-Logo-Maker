@@ -40,11 +40,11 @@ node index.js
 
 Here is an example of how to use the tool:
 
-$ node index.js
-? What text should go inside of the SVG (at most 3 characters)? ABC
-? What color should the text be (must be a valid color or a hexadecimal)? #FFFFFF
-? What shape should the logo be? circle
-? What color should the shape be ? #0000FF
+- $ node index.js
+- ? What text should go inside of the SVG (at most 3 characters)? ABC
+- ? What color should the text be (must be a valid color or a hexadecimal)? #FFFFFF
+- ? What shape should the logo be? circle
+- ? What color should the shape be ? #0000FF
 
 SVG logo saved as logo.svg
 
@@ -57,13 +57,14 @@ npm test
 The tests are written using Jest and can be found in the test/test.js file.
 
 Project Structure
-index.js: The main entry point of the application. Handles user prompts and generates the SVG.
-lib/shape.js: Base class for shapes.
-lib/circle.js: Circle shape class.
-lib/square.js: Square shape class.
-lib/triangle.js: Triangle shape class.
-lib/svgGenerator.js: SVG generator class that creates the SVG content and writes it to a file.
-lib/shape.test.js: Test file for the shape classes.
+
+- index.js: The main entry point of the application. Handles user prompts and generates the SVG.
+- lib/shape.js: Base class for shapes.
+- lib/circle.js: Circle shape class.
+- lib/square.js: Square shape class.
+- lib/triangle.js: Triangle shape class.
+- lib/svgGenerator.js: SVG generator class that creates the SVG content and writes it to a file.
+- lib/shape.test.js: Test file for the shape classes.
 
 ## Contributing
 
