@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
-    <rect x="10" y="10" width="280" height="280" fill="pink" />
-    <text x="150" y="150" text-anchor="middle" fill="black" font-size="50" dy=".3em">SVG</text>
+    <rect x="10" y="10" width="280" height="280" fill="blue" />
+    <text x="150" y="150" text-anchor="middle" fill="pink" font-size="50" dy=".3em">SKY</text>
     </svg>
