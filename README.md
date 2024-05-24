@@ -50,6 +50,10 @@ SVG logo saved as logo.svg
 
 [!Demonstration](https://drive.google.com/file/d/1opUnk1I8tniO6ZYF4ZWnccmWBHXDU497/view)
 
+[Triangle](/examples/Triangle.png)
+[Circle](/examples/Circle.png)
+[Square](/examples/Square.png)
+
 ## Running Tests
 
 To run the tests for the shape classes, use the following command:
